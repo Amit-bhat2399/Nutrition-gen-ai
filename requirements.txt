@@ -1,3 +1,7 @@
 streamlit
 python-dotenv
 google-generativeai
+pytesseract
+pdfminer.six
+Pillow
+pandas
